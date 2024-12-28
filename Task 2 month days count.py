@@ -5,7 +5,7 @@ if(day==1):
 #elif(day==2):
 #    print("28 days")
 elif((day==2) and ((mon%4==0)  or ((mon%100==0) and (mon%400==0)))):
-    print("Number of days is 29")
+    print("29 days")
 elif(day==2):
     print("28 days")
 #elif((day==2) and ((mon%4==0)  or ((mon%100==0) and (mon%400==0)))):
