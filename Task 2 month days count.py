@@ -1,3 +1,10 @@
+#TASK 2
+#3)Find the Month day count?
+#ex:month 5
+#output:31 days
+
+
+
 day=int(input("Enter the month:"))
 mon=int(input("Enter the year:"))
 if(day==1):
